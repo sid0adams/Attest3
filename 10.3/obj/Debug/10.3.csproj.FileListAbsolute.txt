@@ -1,0 +1,14 @@
+C:\Users\Andre\OneDrive\Рабочий стол\Аттестации\Attest3\10.3\bin\Debug\10.3.exe.config
+C:\Users\Andre\OneDrive\Рабочий стол\Аттестации\Attest3\10.3\bin\Debug\10.3.exe
+C:\Users\Andre\OneDrive\Рабочий стол\Аттестации\Attest3\10.3\bin\Debug\10.3.pdb
+C:\Users\Andre\OneDrive\Рабочий стол\Аттестации\Attest3\10.3\bin\Debug\GUITools.dll
+C:\Users\Andre\OneDrive\Рабочий стол\Аттестации\Attest3\10.3\bin\Debug\Logic.dll
+C:\Users\Andre\OneDrive\Рабочий стол\Аттестации\Attest3\10.3\bin\Debug\GUITools.pdb
+C:\Users\Andre\OneDrive\Рабочий стол\Аттестации\Attest3\10.3\bin\Debug\Logic.pdb
+C:\Users\Andre\OneDrive\Рабочий стол\Аттестации\Attest3\10.3\obj\Debug\10.3.csprojResolveAssemblyReference.cache
+C:\Users\Andre\OneDrive\Рабочий стол\Аттестации\Attest3\10.3\obj\Debug\_10._3.Form1.resources
+C:\Users\Andre\OneDrive\Рабочий стол\Аттестации\Attest3\10.3\obj\Debug\_10._3.Properties.Resources.resources
+C:\Users\Andre\OneDrive\Рабочий стол\Аттестации\Attest3\10.3\obj\Debug\10.3.csproj.GenerateResource.Cache
+C:\Users\Andre\OneDrive\Рабочий стол\Аттестации\Attest3\10.3\obj\Debug\10.3.csproj.CoreCompileInputs.cache
+C:\Users\Andre\OneDrive\Рабочий стол\Аттестации\Attest3\10.3\obj\Debug\10.3.exe
+C:\Users\Andre\OneDrive\Рабочий стол\Аттестации\Attest3\10.3\obj\Debug\10.3.pdb

@@ -1,0 +1,8 @@
+C:\Users\Andre\OneDrive\Рабочий стол\Аттестации\Attest3\GUITools\bin\Release\GUITools.dll
+C:\Users\Andre\OneDrive\Рабочий стол\Аттестации\Attest3\GUITools\bin\Release\GUITools.pdb
+C:\Users\Andre\OneDrive\Рабочий стол\Аттестации\Attest3\GUITools\bin\Release\Logic.dll
+C:\Users\Andre\OneDrive\Рабочий стол\Аттестации\Attest3\GUITools\bin\Release\Logic.pdb
+C:\Users\Andre\OneDrive\Рабочий стол\Аттестации\Attest3\GUITools\obj\Release\GUITools.csprojResolveAssemblyReference.cache
+C:\Users\Andre\OneDrive\Рабочий стол\Аттестации\Attest3\GUITools\obj\Release\GUITools.csproj.CoreCompileInputs.cache
+C:\Users\Andre\OneDrive\Рабочий стол\Аттестации\Attest3\GUITools\obj\Release\GUITools.dll
+C:\Users\Andre\OneDrive\Рабочий стол\Аттестации\Attest3\GUITools\obj\Release\GUITools.pdb

@@ -1,0 +1,11 @@
+C:\Users\Andre\OneDrive\Рабочий стол\Аттестации\Attest3\10.3 Console\bin\Release\10.3 Console.exe.config
+C:\Users\Andre\OneDrive\Рабочий стол\Аттестации\Attest3\10.3 Console\bin\Release\10.3 Console.exe
+C:\Users\Andre\OneDrive\Рабочий стол\Аттестации\Attest3\10.3 Console\bin\Release\10.3 Console.pdb
+C:\Users\Andre\OneDrive\Рабочий стол\Аттестации\Attest3\10.3 Console\bin\Release\ConsoleTools.dll
+C:\Users\Andre\OneDrive\Рабочий стол\Аттестации\Attest3\10.3 Console\bin\Release\Logic.dll
+C:\Users\Andre\OneDrive\Рабочий стол\Аттестации\Attest3\10.3 Console\bin\Release\ConsoleTools.pdb
+C:\Users\Andre\OneDrive\Рабочий стол\Аттестации\Attest3\10.3 Console\bin\Release\Logic.pdb
+C:\Users\Andre\OneDrive\Рабочий стол\Аттестации\Attest3\10.3 Console\obj\Release\10.3 Console.csprojResolveAssemblyReference.cache
+C:\Users\Andre\OneDrive\Рабочий стол\Аттестации\Attest3\10.3 Console\obj\Release\10.3 Console.csproj.CoreCompileInputs.cache
+C:\Users\Andre\OneDrive\Рабочий стол\Аттестации\Attest3\10.3 Console\obj\Release\10.3 Console.exe
+C:\Users\Andre\OneDrive\Рабочий стол\Аттестации\Attest3\10.3 Console\obj\Release\10.3 Console.pdb

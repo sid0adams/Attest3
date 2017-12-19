@@ -1,0 +1,14 @@
+C:\Users\Andre\OneDrive\Рабочий стол\Аттестации\Attest2\GUITools\bin\Debug\GUITools.dll
+C:\Users\Andre\OneDrive\Рабочий стол\Аттестации\Attest2\GUITools\bin\Debug\GUITools.pdb
+C:\Users\Andre\OneDrive\Рабочий стол\Аттестации\Attest2\GUITools\obj\Debug\GUITools.csprojResolveAssemblyReference.cache
+C:\Users\Andre\OneDrive\Рабочий стол\Аттестации\Attest2\GUITools\obj\Debug\GUITools.csproj.CoreCompileInputs.cache
+C:\Users\Andre\OneDrive\Рабочий стол\Аттестации\Attest2\GUITools\obj\Debug\GUITools.dll
+C:\Users\Andre\OneDrive\Рабочий стол\Аттестации\Attest2\GUITools\obj\Debug\GUITools.pdb
+C:\Users\Andre\OneDrive\Рабочий стол\Аттестации\Attest3\GUITools\bin\Debug\GUITools.dll
+C:\Users\Andre\OneDrive\Рабочий стол\Аттестации\Attest3\GUITools\bin\Debug\GUITools.pdb
+C:\Users\Andre\OneDrive\Рабочий стол\Аттестации\Attest3\GUITools\obj\Debug\GUITools.csprojResolveAssemblyReference.cache
+C:\Users\Andre\OneDrive\Рабочий стол\Аттестации\Attest3\GUITools\obj\Debug\GUITools.csproj.CoreCompileInputs.cache
+C:\Users\Andre\OneDrive\Рабочий стол\Аттестации\Attest3\GUITools\obj\Debug\GUITools.dll
+C:\Users\Andre\OneDrive\Рабочий стол\Аттестации\Attest3\GUITools\obj\Debug\GUITools.pdb
+C:\Users\Andre\OneDrive\Рабочий стол\Аттестации\Attest3\GUITools\bin\Debug\Logic.dll
+C:\Users\Andre\OneDrive\Рабочий стол\Аттестации\Attest3\GUITools\bin\Debug\Logic.pdb

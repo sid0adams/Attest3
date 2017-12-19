@@ -1,0 +1,5 @@
+C:\Users\Andre\OneDrive\Рабочий стол\Аттестации\Attest3\Logic\bin\Release\Logic.dll
+C:\Users\Andre\OneDrive\Рабочий стол\Аттестации\Attest3\Logic\bin\Release\Logic.pdb
+C:\Users\Andre\OneDrive\Рабочий стол\Аттестации\Attest3\Logic\obj\Release\Logic.csproj.CoreCompileInputs.cache
+C:\Users\Andre\OneDrive\Рабочий стол\Аттестации\Attest3\Logic\obj\Release\Logic.dll
+C:\Users\Andre\OneDrive\Рабочий стол\Аттестации\Attest3\Logic\obj\Release\Logic.pdb
